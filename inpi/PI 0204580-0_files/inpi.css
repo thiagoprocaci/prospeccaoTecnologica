@@ -1,0 +1,300 @@
+/* CSS Document */
+
+@import url("estilo-barra-governo.css");
+
+* {
+	margin: 0 auto;
+	padding:0px; 
+}
+
+body{
+    background-color: #eeeeee;
+    text-align: left;
+}
+
+#mainContainer {
+	width: 850px;
+	margin: 0 auto;
+	margin-top: 15px;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+
+#txt_gov {
+	width: auto;
+	height: auto;
+	float: left;
+        text-align: left;
+}
+
+#img_gov {
+	width: 110px;
+	height: 29px;
+	margin: 9px 22px 0 0;
+	border: 0px;
+	float: right;
+}
+
+#fale_conosco {
+	width: 110px;
+	height: 29px;
+	background: url(../jsp/imagens/faleconosco.png);
+	margin: 8px auto 0 auto;
+}
+
+/************** CSS DO CONTAINER PRINCIPAL**************/
+#principal {
+	height: auto;
+	margin: 0 auto;
+    margin-top:-4px;
+    width: 780px
+}
+
+#bottom_principal {
+	height: 23px;
+    margin: 0 auto;
+	padding-left: 25px;
+	background-position: bottom;
+	background-repeat: no-repeat;
+    width: 780px
+}
+
+#principal .form {
+	text-align: center;
+}
+
+#principal #box_form label {
+	font-weight: bold;
+	font-size: 14px;
+	color: #264D7A;
+}
+
+#principal .submit {
+	background-color: #7F9DB9;
+	font: 12px;
+	color: #FFF;
+	border: 1px solid #7F9DB9;
+	margin-left: 120px;
+	margin-top: 5px;
+	width: 90px;
+}
+
+#principal .text {
+	border: 1px solid #7F9DB9;
+	margin: 3px;
+	padding: 2px;
+	font: 12px;
+	color: #264D7A;
+}
+
+.descricao {
+	padding-left: 20px;
+}
+/************CSS DA LINHA DO HR **********/
+hr {
+      color: rgb(32,92,144);
+      background-color: rgb(32,92,144);
+      height: 5px;
+    }
+/**************CSS DO FOOTER**************/
+#footer {
+
+	height: 80px;
+	margin: 0 auto;
+}
+
+#footer p {
+	font: 11px Arial, Helvetica, sans-serif;;
+	color: #6F6F6F;
+	margin-left: 10px;
+	text-align: left;
+}
+
+#logo_ouvidoria {
+	height: 35px;
+	float: left;
+	margin: 5px 0 0 100px;
+}
+
+#texto_footer {
+	width: auto;
+	float: left;
+	margin: 15px 0 0 0;
+}
+
+.combomenu {
+	background-color: #ffcc00;
+	font-size: 10px;
+	height: 16px;
+	margin: -22px 22px 0 0;
+	border: 0px;
+	float: right;
+}
+
+.texto0 {
+    background-color: white;
+    color: #3C5068;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    line-height: 15px;
+    padding: 10px;
+    text-align: center;
+}
+.texto1 {
+    background-color: white;
+    color: #3C5068;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    line-height: 15px;
+    padding: 10px;
+    text-align: left;
+}
+.gov_titulo {
+	color: #FFDF14;
+	font: 16px "trebuchet Ms", Verdana, Arial, Helvetica, sans-serif;
+	margin: 7px 0 0 35px;
+}
+
+.gov_subtitulo {
+    color: #FFFFFF;
+    font: 10px "Trebuchet Ms",Verdana,Arial,Helvetica,sans-serif;
+    margin: 1px 0 0 35px;
+    margin-top: -3px;
+    padding-bottom: 4px;
+}
+
+.ExempForm	{
+	font-family: Arial, "Times New Roman", Times, serif;
+	font-size: 10px;
+	font-style: italic;
+	font-weight: normal;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	text-align: left;
+	background-image: none;
+	background-repeat: repeat;
+	color: #000000
+}
+
+font.titulo {
+	font-family : Arial;
+	font-size : 13px;
+	color : #006666;
+	line-height : 18px;
+}
+
+font.marcador {
+	font-family : Tahoma, Arial, sans-serif;
+	font-size : 11px;
+	color : #000000;
+	line-height : 15px;
+	background-color: #FFFF99;
+}
+
+font.normal {
+	font-family : Tahoma, Arial, sans-serif;
+	font-size : 11px;
+	color : #000000;
+	line-height : 15px;
+	font-weight: normal;
+}
+
+font.alerta {
+	font-family : Tahoma, Arial, san-serif;
+	font-size : 10px;
+	color : #000000;
+	line-height : 15px;
+}
+
+.basic, INPUT.basic, SELECT.basic, TEXTAREA.basic, .basicbut {
+    FONT-FAMILY: Tahoma, Arial, san-serif;
+    FONT-SIZE: 11px;
+	line-height : 14px;	
+}
+
+.FieldData {
+		font-family: Arial, "Times New Roman", Times, serif;
+        font-size: 11px;
+		font-style: normal;
+		font-weight: bold;
+		border-top-width: 0px;
+		border-right-width: 0px;
+		border-bottom-width: 0px;
+		border-left-width: 0px;
+		text-align: left;
+		background-image: none;
+		background-repeat: repeat;
+		color: #000000;
+		}
+/**************CSS do Botão do Calendário **************/
+.myButtonCalendar {
+    background:url(/pePI/jsp/imagens/calendar.gif) no-repeat;
+    cursor:pointer;
+    width: 16px;
+    height: 16px;
+    border: none;
+}		
+/**************TOOL TIPS**************/
+p#vtip {
+	display: none;
+	max-width: 400px;
+	position: absolute;
+	padding: 10px;
+	left: 5px;
+	font-size: 0.7em;
+	background-color: white;
+	border: 1px solid #a6c9e2;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	z-index: 9999;
+	cursor: help;
+}
+
+p#vtip #vtipArrow {
+	position: absolute;
+	top: -10px;
+	left: 5px;
+	cursor: help;
+}
+
+.tooltipInfo {
+	cursor: help;
+}
+
+
+/**************fim TOOL TIPS**************/
+A.menu:link    { text-decoration:none; color: #000000; }
+A.menu:visited { text-decoration:none; color: #000000; }
+A.menu:hover   { text-decoration:underline; color: #000000; }
+A.menu:active  { text-decoration:none; color: #339900; ; font-family: arial}
+
+A.normal:link    { text-decoration:none; color: #006363; }
+A.normal:visited { text-decoration:none; color: #006363; }
+A.normal:hover   { text-decoration:underline; color: #339900; }
+A.normal:active  { text-decoration:none; color: #006363; }
+
+A.visitado:link    { text-decoration:none; color: #006363; }
+A.visitado:visited { text-decoration:none; color: #FF6600; }
+A.visitado:hover   { text-decoration:underline; color: #339900; }
+A.visitado:active  { text-decoration:none; color: #006363; }
+
+A.marcador:link    { text-decoration:none; color: #006363; ; background-color: #FFFF99}
+A.marcador:visited { text-decoration:none; color: #006363; ; background-color: #FFFF99}
+A.marcador:hover   { text-decoration:underline; color: #339900; ; background-color: #FFFF99}
+A.marcador:active  { text-decoration:none; color: #006363; ; background-color: #FFFF99}
+
+A.alerta:link    { text-decoration:none; color: #00FF99; }
+A.alerta:visited { text-decoration:none; color: #00FFFF;  }
+A.alerta:hover   { text-decoration:underline; color: #CC0000; }
+A.alerta:active  { text-decoration:none; color: #CC3300; }font.menu { font-family: Tahoma, Arial, sans-serif; font-size: 12px; text-decoration: none; line-height: 15px; color: #000000 ; font-weight: bold}
+A.titulo:visited {  color: #006363; text-decoration: none; font-family: Arial; font-size: 11px}
+A.titulo:link { text-decoration:none; color: #006363; ; font-family: Arial; font-size: 11px}
+A.titulo:hover { text-decoration:underline; color: #339900; ; font-family: Arial; font-size: 11px}
+A.titulo:active { text-decoration:none; color: #006363; ; font-size: 11px; font-family: arial}
+font.tituloatual { font-family : Arial; font-size : 13px; color : #000000; line-height : 18px; ; text-decoration: underline}
+
+.fontgeral {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration: none}
+.titulos {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #000000; text-decoration: none; font-weight: bolder; text-transform: none}
+.box { font-family: Arial, Helvetica, sans-serif; font-size: 10px; height: auto; width: 613px}
