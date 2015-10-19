@@ -11,6 +11,18 @@ class Patente:
 		self.nomeInventorList = None
 		self.nomeDepositante = None
 
+	def nomeInventorListAsString(self):
+		nome = ''
+		if self.nomeInventorList:
+			for nomeInventor in self.nomeInventorList:
+				nome = nome + nomeInventor + ','
+			nome = nome[:-1]
+		return nome
+
+			
+
+
+
 	def stripNomeInventorList(self):
 		if(self.nomeInventorList is not None):
 			auxList = []
@@ -18,7 +30,7 @@ class Patente:
 				nomeInventor = nomeInventor.replace('\n','')
 				nomeInventor = nomeInventor.strip()
 				auxList.append(nomeInventor)
-			stripNomeInventorList = auxList
+			self.nomeInventorList = auxList
 
 	def brasileira(self):
 		if self.nomeDepositante:

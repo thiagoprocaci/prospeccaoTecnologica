@@ -42,7 +42,7 @@ def loadData():
 	return resultDict, filesInFolder									
 
 def genReport():
-	csv = 'id;brasileira;universidadeBrasileira;titulo;data deposito;data publicacao;data Concessao;ipc; nome depositante ;\n'
+	csv = 'id;brasileira;universidadeBrasileira;titulo;data deposito;data publicacao;data Concessao;ipc;\n'
 	resultDict, filesInFolder = loadData()
 	for id in resultDict:
 		patente = resultDict[id]
@@ -54,10 +54,12 @@ def genReport():
 			csv = csv + str(patente.dataDeposito) + ';'			
 			csv = csv + str(patente.dataPublicacao) + ';'
 			csv = csv + str(patente.dataConcessao) + ';'			
-			csv = csv + patente.ipc + ';'			
+			csv = csv + patente.ipc + ';'	
+			#csv = csv + str(patente.nomeInventorList)	+ ';'
+			#csv = csv + str(patente.nomeDepositante)	+ ';'
 			csv = csv + '\n'
 
-	f = codecs.open('report','w', 'utf-8')
+	f = codecs.open('report','w')
 	f.write(csv)
 	f.close() 
 
