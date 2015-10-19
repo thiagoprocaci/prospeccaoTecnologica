@@ -1,13 +1,14 @@
 from Model import *
 from Check import *
 from bs4 import BeautifulSoup
+import codecs
 
 def loadData():
 	#resultDict, filesInFolder = checkAll()
 	resultDict = readResult()
 	filesInFolder = readFilesInFolder()
 	for f in filesInFolder:		
-		file = open(filesInFolder[f])
+		file = codecs.open(filesInFolder[f], 'r')
 		text = file.read()
 		file.close()	
 
@@ -40,16 +41,31 @@ def loadData():
 					patente.nomeDepositante = nomeDepositante
 	return resultDict, filesInFolder									
 
+def genReport():
+	csv = 'id;brasileira;universidadeBrasileira;titulo;data deposito;data publicacao;data Concessao;ipc; nome depositante ;\n'
+	resultDict, filesInFolder = loadData()
+	for id in resultDict:
+		patente = resultDict[id]
+		if patente.depois2000():
+			csv = csv + patente.id + ';'
+			csv = csv + str(patente.brasileira()) + ';'
+			csv = csv + str(patente.universidadeBrasileira()) + ';'			
+			csv = csv + patente.titulo + ';'
+			csv = csv + str(patente.dataDeposito) + ';'			
+			csv = csv + str(patente.dataPublicacao) + ';'
+			csv = csv + str(patente.dataConcessao) + ';'			
+			csv = csv + patente.ipc + ';'			
+			csv = csv + '\n'
+
+	f = codecs.open('report','w', 'utf-8')
+	f.write(csv)
+	f.close() 
+
+			
 
 
 def main():
-	resultDict, filesInFolder = loadData()
-
-	for key in resultDict:
-		patente = resultDict[key]
-		if  patente.universidadeBrasileira():
-			print patente.titulo
-	
+	genReport()
 	
 				
 

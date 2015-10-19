@@ -25,6 +25,7 @@ def readResult():
 			patente.dataDeposito = dataDeposito
 			patente.titulo = titulo
 			patente.ipc = ipc
+			patente.id = numero
 			
 			resultDict[numero] = patente
 		count += 1
