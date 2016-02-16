@@ -9,7 +9,7 @@ Em outras palavras, aqui é possível encontrar os dados para reprodução da pesqui
 - Na pasta raiz contem alguns scripts Python que foram usados para a extração e tratamento dos dados
 
 ## Análise
-### Tabela 1: Resultado da Execução da Busca
+### Tabela 1: Resultado da Busca
 Número                  |Brasileira              |Universidade Brasileira |Atende Critérios        |Data do Depósito        |Data da Publicação      |Data da Concessão       |CIP                     |
 ------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
 BR 10 2012 003991 5     |S                       |N                       |N                       |24/02/2012              |08/04/2014              |-                       |G09B 23/12              |
@@ -114,7 +114,7 @@ PI 1000889-6            |S                       |N                       |N    
 PI 0205545-7            |S                       |S                       |N                       |12/12/2002              |03/08/2004              |-                       |G09B 1/34               |
 MU 8300204-9            |S                       |N                       |N                       |28/02/2003              |23/11/2004              |-                       |A47B 13/10              |
 
-### Tabela 2: Resultado da Execução da Busca com Título
+### Tabela 2: Resultado da Busca com Titulo
 Número                  |Título                  |
 ------------------------|------------------------|
 BR 10 2012 003991 5     |SISTEMA PARA ANÁLISE DE PRESSÃO E DESCOMPRESSÃO DE GASES|
@@ -219,7 +219,7 @@ PI 1000889-6            |CARRO ELÉTRICO MODELO FÓRMULA|
 PI 0205545-7            |DISPOSITIVO LÚDICO PARA ENSINO SOBRE A COLETA SELETIVA DE LIXO|
 MU 8300204-9            |MESA EM FORMA DE U      |
 
-### Tabela 3: Análise das Patentes Selecionadas
+### Tabela 3: Analise das Patentes Selecionadas
 Número                  |Título                  |Do que se trata?        |
 ------------------------|------------------------|------------------------|
 BR 10 2013 008443 3     |SISTEMA DE GERENCIAMENTO DE CONTEÚDO E APRENDIZAGEM|Software que tenta simular o ambiente de aprendizagem real (presencial) em um espaço virtual.|
