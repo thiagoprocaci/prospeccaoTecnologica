@@ -218,3 +218,33 @@ PI 1002065-9            |JOGO DIDÁTICO DE TRÂNSITO|
 PI 1000889-6            |CARRO ELÉTRICO MODELO FÓRMULA|
 PI 0205545-7            |DISPOSITIVO LÚDICO PARA ENSINO SOBRE A COLETA SELETIVA DE LIXO|
 MU 8300204-9            |MESA EM FORMA DE U      |
+
+### Tabela 3: Análise das Patentes Selecionadas
+Número                  |Título                  |Do que se trata?        |
+------------------------|------------------------|------------------------|
+BR 10 2013 008443 3     |SISTEMA DE GERENCIAMENTO DE CONTEÚDO E APRENDIZAGEM|Software que tenta simular o ambiente de aprendizagem real (presencial) em um espaço virtual.|
+BR 10 2012 021616 7     |SISTEMA DE ENSINO COM ACESSO À PRÉ-AULA, AULA E PÓS-AULA|Base de dados com materiais de antes da aula e depois da aula para facilitar a aprendizagem do aluno.|
+BR 10 2013 001541 5     |SISTEMA DE CARTÃO DE ÁUDIO + CANETA ACIONADORA, USADO COMO MATERIAL DE APOIO EM MÉTODOS DE ENSINO DE IDIOMAS|Sistema e hardware especial para apoiar o ensino de idiomas.|
+PI 1105136-1            |SOFTWARE DE SUPORTE PARA DESENVOLVIMENTO DE MONOGRAFIAS|Sistema para auxiliar alunos durante a elaboração de monografias.|
+PI 1104694-5            |EQUIPAMENTO PARA LEITURA DE TEXTOS E APRENDIZAGEM DO SISTEMA BRAILLE E MÉTODO DE APRENDIZAGEM UTILIZANDO DITO EQUIPAMENTO|Sistema e hardware especial para auxiliar a aprendizagem de Braille.|
+PI 1013132-9            |PROCESSO E SISTEMA TECNOLÓGICO-EDUCACIONAL ESPECIALIZADO, NA ÁREA DA EDUCAÇÃO MIDIÁTICA, DESTINADO A FORMAÇÃO E TREINAMENTO EM EFICIÊNCIA ENERGÉTICA, ATRAVÉS DE DISPOSITIVO MÓVEL INTERATIVO DE PRESENÇA VIRTUAL E APRESENTAÇÃO CONCOMITANTE DE TEORIA E PRÁTICA|Processo e sistema para ensino de eficiência energética através do uso de dispositivos móveis.|
+PI 1013131-0            |METODOLOGIA DE TELE-ENSINO COM AULA PREPARADA EM ESTÚDIO TRANSMITIDA POR MEIO DE DISPOSITIVO MÓVEL INTERATIVO DE PRESENÇA VIRTUAL PARA ACOMPANHAMENTO DIDÁTICO COM RECURSOS MULTIMÍDIA E CONEXÃO REMOTA COM INSTRUTOR DINAMIZADOR|Metodologia e sistema que buscam simular a interação presencial do professor na sala de aula.|
+PI 1003303-3            |SISTEMA DE AVALIAÇÃO COMPUTACIONAL DO NÍVEL DE COMPREENSÃO DE TEXTOS EM LINGUAGEM NATURAL|Sistema que busca entender textos escritos em linguagem natural. O sistema pode ser útil para captar o nível maturidade de alunos em determinados assuntos.|
+PI 0903454-4            |PROCESSO DIDÁTICO DE ENSINO|Sistema de caráter geral para ensino e aprendizagem.|
+PI 1001804-2            |SISTEMA E EQUIPAMENTOS PARA DISTRIBUIÇÃO, VIA WEB, DE SINAIS SONOROS E LUMINOSOS, PARA COMBATE AO ESTRESSE E FACILITAÇÃO DA APRENDIZAGEM|Sistema que objetiva minimizar o estresse durante o processo de aprendizagem.|
+PI 0805118-6            |SISTEMA DE ENSINO, ORIENTAÇÃO, PESQUISA E DESENVOLVIMENTO ACADÊMICO EM QUALQUER ÁREA DE CONHECIMENTO|Sistema de caráter geral para ensino e aprendizagem.|
+PI 0802326-3            |CONJUNTO (KIT) MODULAR PARA ENSINO E PESQUISA EM ELETROELETRÔNICA|Conjuntos de dispositivos eletrônicos para apoiar ensinos práticos em eletrônica.|
+PI 0801768-9            |SISTEMA DE EDUCAÇÃO A DISTÂNCIA, INTERATIVO À METODOLOGIA DE ESTABELECIMENTOS DE ENSINO|Sistema de educação a distância que integra aulas presenciais com alunos remotos.|
+PI 0705201-4            |SISTEMA INTERATIVO DE ENTRETENIMENTO E ENSINO|Sistema que mescla entretenimento e ensino para a educação infantil.|
+PI 0701176-8            |ROBÔ HUMANÓIDE PARA PUBLICIDADE E ENSINO|Robô para apoiar o ensino de disciplinas relacionadas ao corpo humano, movimentos etc.|
+PI 0515595-9            |SISTEMA DE DISTRIBUIÇÃO DE SEMINÁRIOS INTERATIVOS, E MÉTODO RELACIONADO|Sistema que permite a projeção de vídeos interativos de seminários onde os participantes podem modificar o fluxo dos seminários.|
+PI 0703695-7            |PAINEL ELETROELETRÔNICO PARA ASSOCIAÇÕES DE COMPONENTES ELÉTRICOS PLUGÁVEIS, DESTINADO AO ESTUDO DA ELETRODINÂMICA|Painel eletrônico para apoiar estudos de eletrodinâmica.|
+PI 0602183-2            |SISTEMA DE AVALIAÇÃO    |Sistema para avaliação de alunos que consiste em um banco de dados informatizado de questões e algoritmo desenvolvido para sorteio de questões.|
+PI 0500764-0            |SISTEMA PARA O EXERCÍCIO DA PRÁTICA JURÍDICA|Sistema para ensino da prática jurídica através da simulação do sistema judiciário.|
+MU 8403002-0            |SISTEMA DE CONCEPÇÃO MODULAR DE FINS EMINENTEMENTE PEDAGÓGICOS PARA O DESENVOLVIMENTO, PELA VIA EXPERIENCIAL, DA CIÊNCIA E TECNOLOGIA|Sistema para apoiar o estudo de técnicas de funções de automações.|
+PI 0400532-5            |SISTEMA DE IMAGEM PARA ENSINO DE ODONTOLOGIA (SIEO)|Sistema para apoiar o ensino de odontologia.|
+PI 0400838-3            |SISTEMA DE GERENCIAMENTO E PUBLICAÇÃO DE CONTEÚDO PRESENTE EM AMBIENTE INSTALADO NA INTERNET E/OU MEIO DE COMUNICAÇÃO CONGÊNERE|Sistema de caráter geral para ensino e aprendizagem.|
+PI 0207243-2            |ELEMENTO QUE EXECUTA E/OU ORIENTA EXERCÍCIOS FÍSICOS|Sistema que orienta/ensina a execução de exercícios físicos.|
+PI 0114992-0            |APARELHO E SISTEMA DE ENSIMO DE IDIOMAS|Sistema para ensino e aprendizagem de idiomas.|
+
+
