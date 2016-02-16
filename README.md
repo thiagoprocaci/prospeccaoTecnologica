@@ -10,7 +10,8 @@ Em outras palavras, aqui é possível encontrar os dados para reprodução da pesqui
 
 ## Análise
 ### Tabela 1: Resultado da Busca
-Legenda: S = Sim; N = Não
+- Legenda: S = Sim; N = Não
+
 Número                  |Brasileira              |Universidade Brasileira |Atende Critérios        |Data do Depósito        |Data da Publicação      |Data da Concessão       |CIP                     |
 ------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
 BR 10 2012 003991 5     |S                       |N                       |N                       |24/02/2012              |08/04/2014              |-                       |G09B 23/12              |
