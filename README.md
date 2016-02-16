@@ -114,7 +114,7 @@ PI 1000889-6            |S                       |N                       |N    
 PI 0205545-7            |S                       |S                       |N                       |12/12/2002              |03/08/2004              |-                       |G09B 1/34               |
 MU 8300204-9            |S                       |N                       |N                       |28/02/2003              |23/11/2004              |-                       |A47B 13/10              |
 
-### Tabela 1: Resultado da Execução da Busca com Título
+### Tabela 2: Resultado da Execução da Busca com Título
 Número                  |Título                  |
 ------------------------|------------------------|
 BR 10 2012 003991 5     |SISTEMA PARA ANÁLISE DE PRESSÃO E DESCOMPRESSÃO DE GASES|
