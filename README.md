@@ -1,7 +1,7 @@
 # Projeto Prospecção Tecnológica
 ## Resumo
 Este projeto é parte de uma pesquisa científica. Estamos interessados em conhecer as principais inoveções em informática na educação através de uma prospecção tecnológica.
-Aqui, é possível encontrar os dados do artigo "Prospecção Tecnológica do Principal Assunto de Informática na Educação: Listagem de Patentes, Atuação da Academia e Potenciais Inovações" publicado em "xxx".
+Aqui, é possível encontrar os dados do artigo "Prospecção Tecnológica do Principal Assunto de Informática na Educação: Listagem de Patentes, Atuação da Academia e Potenciais Inovações" publicado na iSys - Revista Brasileira de Sistemas de Informação (http://seer.unirio.br/index.php/isys/article/download/5959/5581).
 Em outras palavras, aqui é possível encontrar os dados para reprodução da pesquisa.
 
 ## Dados Gerais
